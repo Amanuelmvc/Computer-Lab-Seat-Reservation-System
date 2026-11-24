@@ -19,7 +19,7 @@ The system aims to prevent double booking, manage seat availability, and improve
 
 1. Chala Assefa Nigussie
 2. Fuad Aliyi Abdurahman
-3. Sosina Simachew
+3. Sossina Simachew
 4. Ammar Munir Mohammed
 5. Amanuel Tilahun Lemecha
 
