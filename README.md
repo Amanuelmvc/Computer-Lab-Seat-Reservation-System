@@ -26,10 +26,8 @@ The system aims to prevent double booking, manage seat availability, and improve
 ## Technologies
 
 - Java (JDK 17+)
-- JavaFX or Swing
-- MySQL or SQLite
-- JDBC
-- JUnit
+- Swing
+- SQLite
 - Git and GitHub
 
 ## Project Status
